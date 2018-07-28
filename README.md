@@ -1,2 +1,2 @@
-# python3_higha
+# python3_high
 python file for learning
